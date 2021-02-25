@@ -30,7 +30,7 @@ class T2 implements Runnable
 		{
 			System.out.println("Cube of "+i+" is "+(i*i*i));
 		}
-		System.out.println("Second Thread Ended");
+		System.out.println("Second ");
 	}
 }
 class T3 implements Runnable
