@@ -4,7 +4,7 @@ class T1 implements Runnable
 	int n;
 	T1(int p)
 	{
-		n=p;
+		
 	}
 	public void run()
 	{
